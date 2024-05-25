@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consultoría Integral de Gestión Comercial</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Consultoría Integral de Gestión Comercial</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#servicios">Servicios</a></li>
+                <li><a href="#sobre-mi">Sobre Mí</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="inicio">
+        <h2>Bienvenido</h2>
+        <p>Desarrollo e implementación de estrategias centradas en la experiencia del cliente para pequeñas y medianas empresas hispanohablantes en los Estados Unidos.</p>
+    </section>
+
+    <section id="servicios">
+        <h2>Servicios</h2>
+        <ul>
+            <li>Consultoría en Gestión Comercial</li>
+            <li>Estrategias de Retención de Clientes</li>
+            <li>Programas de Fidelización</li>
+            <li>Marketing Personalizado</li>
+            <li>Capacitación Continua</li>
+        </ul>
+    </section>
+
+    <section id="sobre-mi">
+        <h2>Sobre Mí</h2>
+        <p>Soy [Tu Nombre], consultor líder con amplia experiencia en la gestión de clientes y el desarrollo de estrategias de ventas y marketing. He trabajado con diversas organizaciones para mejorar la satisfacción y retención de clientes.</p>
+    </section>
+
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Para más información, puedes contactarme en:</p>
+        <ul>
+            <li>Email: <a href="mailto:tuemail@ejemplo.com">tuemail@ejemplo.com</a></li>
+            <li>Teléfono: +1 (123) 456-7890</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Consultoría Integral de Gestión Comercial. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
