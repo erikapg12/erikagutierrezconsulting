@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erika Gutiérrez Consulting</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Erika Gutiérrez Consulting</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">Acerca de</a></li>
+                <li><a href="#services">Servicios</a></li>
+                <li><a href="#contact">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section id="about">
+        <h2>Acerca de Nosotros</h2>
+        <p>En Erika Gutiérrez Consulting ofrecemos consultoría integral de gestión comercial centrada en la experiencia del cliente para pequeñas y medianas empresas hispanohablantes en los Estados Unidos.</p>
+    </section>
+    <section id="services">
+        <h2>Servicios</h2>
+        <ul>
+            <li>Análisis de Mercado y Segmentación</li>
+            <li>Estrategias de Marketing Personalizadas</li>
+            <li>Optimización de la Experiencia del Cliente</li>
+            <li>Relaciones Comerciales Duraderas</li>
+            <li>Capacitación y Soporte Continuo</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contacto</h2>
+        <p>Para más información, visita nuestro sitio web o contacta a Erika Gutiérrez directamente a través de correo electrónico.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Erika Gutiérrez Consulting. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
